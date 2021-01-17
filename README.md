@@ -13,3 +13,5 @@ Through my foundational studies of data science offerenced by IBM/Coursera for t
 
 3 - Project Tracker Report Template document:
 This is a document I started recently.  I found that by tracking my progress of a project through a word document like this, helped me construct what I was doing and perhaps what I wanted to do with the projects.  It also helps to document your process through a project as a source from where you can refine your approaches/methodology.  This is also one that is progress and so you'll see changes history accumulate commits through time.  Again a document that I was able to form through a combination and variety of sources that I came about from training this year. 
+
+4 - Modelin Template: -- I put this general template together after I did a guided project on coursera that was related to being a Kaggle competition.  I eliminated a lot of the things that came from that guided project, but kept the "bear-bones" structures since I found it really useful to use it in the future everytime a submission may need to be made for documenation purposes to remmenber the steps taken to arrive to the final result of submission.  
